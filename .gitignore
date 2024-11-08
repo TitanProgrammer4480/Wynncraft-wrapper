@@ -1,5 +1,4 @@
 .pythonlibs
 .upm
-pyproject.toml
 uv.lock
 .replit
